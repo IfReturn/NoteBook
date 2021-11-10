@@ -96,6 +96,32 @@ const useStore = () => {
 
 export default createContainer(useStore)
 ```
+通过 useRecuder 整合管理数据
+
+```
+import {createContainer} from './context'
+import {useReducer} from 'react'
+
+const reducer = (state, action) => {
+  switch (action.type) {
+    case 'count':
+      return Object.assign({}, state, { step: state.count + 1 });
+    default:
+      return state;
+  }
+}
+
+const useStore = () => {
+  const [value, dispatch] = useReducer(reducer, {count: 0})
+
+  return {
+    value,
+    dispatch
+  }
+}
+
+export default createContainer(useStore)
+```
 
 ### 3、容器用法
 
