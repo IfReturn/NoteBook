@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="YuOYzzZ7VNlo-SpTl1M6" name="第 1 页">
+        <mxGraphModel dx="272" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="&lt;div&gt;&lt;span&gt;&lt;font face=&quot;Tahoma&quot;&gt;100010110&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="280" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font face=&quot;Tahoma&quot;&gt;111010111&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="310" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font face=&quot;Tahoma&quot;&gt;011000001&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="340" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="278" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="280" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="471" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="310" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="193" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="340" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="330" width="130" height="10" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
